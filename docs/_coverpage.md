@@ -3,5 +3,5 @@
 
 ## 神明请赐我智慧
 
-[Github]<!--(https://github.com/dyllannnha/dyllannnha.github.io)-->
+[Github](https://github.com/dyllannnha/dyllannnha.github.io)
 [Come on](README.md)
