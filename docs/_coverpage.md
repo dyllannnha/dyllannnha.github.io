@@ -4,5 +4,5 @@
 
 神明请赐我智慧
 
-[Github]%(https://github.com/LeetaH666/Notes)
+[Github](https://github.com/LeetaH666/Notes)
 [Let's start](README.md)
