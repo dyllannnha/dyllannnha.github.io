@@ -1,7 +1,7 @@
 # dyllannnha's Notes
-![logo](九尾.png)
+![logo](智慧.jpg)
 
 神明请赐我智慧
 
-[Github](https://github.com/LeetaH666/Notes)
+[Github](https://github.com/dyllannnha/dyllannnha.github.io)
 [Let's start](README.md)
