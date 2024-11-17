@@ -1,5 +1,5 @@
 # dyllannnha's Notes
-![logo](智慧.jpg =50x50)
+![logo](智慧.jpg)
 
 神明请赐我智慧
 
