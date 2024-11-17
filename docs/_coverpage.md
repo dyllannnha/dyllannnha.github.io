@@ -2,7 +2,7 @@
 
 ![logo](九尾.png)
 
-Any fool can know. The point is to understand. &mdash;Albert Einstein
+神明请赐我智慧
 
-[Github](https://github.com/LeetaH666/Notes)
-[Start Learning](README.md)
+[Github]%(https://github.com/LeetaH666/Notes)
+[Let's start](README.md)
