@@ -4,4 +4,5 @@
     - [Docsify Issues](docsify_issues.md)
 
 - Related links
-    - [李大成](https://ligang19999.github.io/115/#/)
+    - [ligang](https://ligang19999.github.io/115/#/)
+    - [Levi](https://leetah666.github.io/Notes)
