@@ -1,5 +1,5 @@
 # Welcome! <!-- {docsify-ignore} -->
-:grin::grin::grin:
+:salute::salute::salute:
 
 Enjoy please :grin::grin::grin:
 
